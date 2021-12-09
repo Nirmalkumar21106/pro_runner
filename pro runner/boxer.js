@@ -1,3 +1,4 @@
+// This is a comment
 var space = document.getElementById("sheet")
 var cnxt = space.getContext('2d');
 var mypiece;
